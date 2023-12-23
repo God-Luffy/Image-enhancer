@@ -16,7 +16,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 bot = Bot(token='6357383464:AAHBE2byrVIKS6eiZEyw923uhSMKIxSmwW0')   # REPLACE YOUR TELEGRAM BOT TOKEN HERE
 dp = Dispatcher(bot)
 
-API_KEY = "REMINI_API_KEY"   # REPLACE YOUR REMINI API KEY THAT HAS CREDITS
+API_KEY = "SbRhC-gz_SlMWjmN7Uqu-PmqF4lbnzpkCRHvSTEH8fKPtIB7"   # REPLACE YOUR REMINI API KEY THAT HAS CREDITS
 CONTENT_TYPE = "image/jpeg"
 _TIMEOUT = 60
 _BASE_URL = "https://developer.remini.ai/api"
